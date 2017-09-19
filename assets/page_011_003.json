@@ -1,0 +1,1 @@
+﻿{"background":{"class":"border_1"},"controls":{"l":"false","r":"false","t":"false","b":"false"},"subtitle":{"selector":"subtitle","text":"table.component"},"body":{"selector":"body","class":"text-size-150","text":"<b>Zadanie:</b><br>\n<br>* Zrobić tytuł nad tabelą. <br>* Tytuł powinien być umieszczony wewnątrz tagu H3.\n<br>* Należy użyć zmiennej <b>title</b>"}}
